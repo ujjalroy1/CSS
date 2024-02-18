@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>inline css</title>
+</head>
+<body>
+      <h1 style="color: #4cf595;font: size 40px;">Hello I am ujjal</h1>
+      <h2 style="color: #d576f5;font-size: 40px;">Hello Are you ok</h2>
+      <p style="color:#53a303;font-size: 20px;">
+         Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+         Sit eligendi tempora voluptates fugit dignissimos ut magnam
+          illo maxime laudantium nostrum magni dicta, inventore facilis
+           minima explicabo voluptatum nam culpa natus.
+           Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+           Sit eligendi tempora voluptates fugit dignissimos ut magnam
+            illo maxime laudantium nostrum magni dicta, inventore facilis
+             minima explicabo voluptatum nam culpa natus.
+             Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+             Sit eligendi tempora voluptates fugit dignissimos ut magnam
+              illo maxime laudantium nostrum magni dicta, inventore facilis
+               minima explicabo voluptatum nam culpa natus.
+               Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+               Sit eligendi tempora voluptates fugit dignissimos ut magnam
+                illo maxime laudantium nostrum magni dicta, inventore facilis
+                 minima explicabo voluptatum nam culpa natus.
+                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                 Sit eligendi tempora voluptates fugit dignissimos ut magnam
+                  illo maxime laudantium nostrum magni dicta, inventore facilis
+                   minima explicabo voluptatum nam culpa natus.
+
+      </p>
+
+</body>
+</html>
