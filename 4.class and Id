@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>class and id css</title>
+  <style type="text/css">
+   
+   .class1
+    {
+        color: red;
+    }
+    #id1
+    {
+        color: blue;
+        font-size: 40px;
+    }
+   </style>
+   
+</head>
+<body>
+      <h1 id="id1">Hello I am ujjal</h1>
+      <h1>Hello Are you ok</h2>
+      <p class="class1">
+         Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+         Sit eligendi tempora voluptates fugit dignissimos ut magnam
+          illo maxime laudantium nostrum magni dicta, inventore facilis
+           minima explicabo voluptatum nam culpa natus.
+           Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+           Sit eligendi tempora voluptates fugit dignissimos ut magnam
+            illo maxime laudantium nostrum magni dicta, inventore facilis
+             minima explicabo voluptatum nam culpa natus.
+             Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+             Sit eligendi tempora voluptates fugit dignissimos ut magnam
+              illo maxime laudantium nostrum magni dicta, inventore facilis
+               minima explicabo voluptatum nam culpa natus.
+               Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+               Sit eligendi tempora voluptates fugit dignissimos ut magnam
+                illo maxime laudantium nostrum magni dicta, inventore facilis
+                 minima explicabo voluptatum nam culpa natus.
+                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                 Sit eligendi tempora voluptates fugit dignissimos ut magnam
+                  illo maxime laudantium nostrum magni dicta, inventore facilis
+                   minima explicabo voluptatum nam culpa natus.
+
+      </p>
+      <p class="class1">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Sit eligendi tempora voluptates fugit dignissimos ut magnam
+         illo maxime laudantium nostrum magni dicta, inventore facilis
+          minima explicabo voluptatum nam culpa natus.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+          Sit eligendi tempora voluptates fugit dignissimos ut magnam
+           illo maxime laudantium nostrum magni dicta, inventore facilis
+            minima explicabo voluptatum nam culpa natus.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Sit eligendi tempora voluptates fugit dignissimos ut magnam
+             illo maxime laudantium nostrum magni dicta, inventore facilis
+              minima explicabo voluptatum nam culpa natus.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+              Sit eligendi tempora voluptates fugit dignissimos ut magnam
+               illo maxime laudantium nostrum magni dicta, inventore facilis
+                minima explicabo voluptatum nam culpa natus.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                Sit eligendi tempora voluptates fugit dignissimos ut magnam
+                 illo maxime laudantium nostrum magni dicta, inventore facilis
+                  minima explicabo voluptatum nam culpa natus.
+
+     </p>
+
+
+</body>
+</html>
