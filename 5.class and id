@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+           
+           #id1
+           {
+              background-color: #f08548;
+           }
+           #id1 h1
+           {
+              color:#8632ed;
+           }
+           #id1 p
+           {
+              color:#79edeb;
+           }
+           .class1
+           {
+              color: yellow;
+
+           }
+           .class2
+           {
+              font-size: 50px;
+           }
+    </style>
+</head>
+<body>
+    
+       <div id="id1">
+             <h1>hello coder</h1>
+             <h2 class="class1 class2">hello coder</h2>
+             <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad recusandae ex, 
+                vitae fugiat sit provident repudiandae quos molestiae ratione numquam inventore, 
+                rerum repellendus veritatis quo natus mollitia saepe. Ipsum, similique.
+             </p>
+        </div>
+</body>
+</html>
