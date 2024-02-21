@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style type="text/css"> 
+           
+              .font_style
+              {
+                font-size:20px;
+                color: red;
+                font-family: Arial, Helvetica, sans-serif,times,serif;
+                font-style: italic;
+                font-weight: bolder;
+                font-weight: lighter;
+              }
+    </style>
+</head>
+<body>
+    
+    <p class="font_style">
+       
+         Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+         Reprehenderit numquam molestiae saepe? Ullam unde vero, aut,
+         deserunt provident corporis officiis consectetur 
+         iusto ex ducimus rem iure architecto praesentium. Natus, repudiandae.
+
+    </p>
+
+    
+</body>
+</html>
