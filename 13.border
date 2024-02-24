@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+          
+          h1
+          {
+             border: 30px blue solid;
+             width: 250px;
+             border-radius: 50px;
+          }
+          h2
+          {
+            border-color: yellow;
+            border-width: 5px;
+            border-style: dotted;
+            width: 200px;
+
+          }
+          h3
+          {
+           
+             border-left: 5px red double;
+             border-top: 5px blue groove;
+             width: 200px;
+             border-right: 5px #cf0a6c ridge;
+             border-bottom: 5px inset #6c0acf;
+          }
+
+    </style>
+</head>
+<body>
+      
+      <h1>This is heading 1</h1>
+      <h2>this is heading 2</h2>
+      <h3>This is heading 3</h3>
+      
+</body>
+</html>
