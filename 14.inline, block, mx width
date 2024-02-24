@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div1
+        {
+            background-color: blue;
+            height: 200px;
+        }
+           .p1
+           {
+           
+             text-align: center;
+            
+              background-color: red;
+              display: inline;
+           }
+           .div2
+           {
+              border: 10px dotted gray;
+              max-width: 800px;
+              margin: auto;
+           }
+
+    </style>
+</head>
+<body>
+    
+
+    <div class="div1">
+          <p class="p1">
+              this is paragraph block element
+          </p>
+    </div><br>
+      <div class="div2">
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                 Suscipit dolores beatae voluptatum sit rem quo laborum?
+                 Repudiandae, rerum eos unde cum soluta
+                 dignissimos sequi porro assumenda fuga nobis. Eligendi, officiis!
+            </p>
+       </div>
+</body>
+</html>
