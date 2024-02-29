@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+          a:hover
+          {
+             color: greenyellow;
+             background-color:red ;
+            
+          }
+        .b:hover
+         {
+             background-color: gray;
+         }
+         input
+         {
+             margin: 10px;
+             padding: 10px 20px;
+             font-size: 15px;
+             width: 150px;
+         }
+         .c:hover
+         {
+              background-color: pink;
+         }
+         table,tr,th,td
+         {
+             border: 2px solid black;
+         }
+         tr:nth-child(odd)
+         {
+             background-color: aqua;
+         }
+         p:hover::first-line
+         {
+            color: lightsalmon;
+         }
+    </style>
+</head>
+<body class="b">
+    
+       <a href="#">tutorial</a>
+       <h1>home</h1>
+       <input type="text" placeholder="Enter your name" class="c">
+       <table>
+              <tr>
+                  <th>Name</th>
+                  <th>Roll</th>
+                  <th>age</th>
+                </tr>
+                <tr>
+                   <td>Ujjal</td>
+                   <td>01</td>
+                   <td>24</td>
+
+                </tr>
+                <tr>
+                    <td>mithu</td>
+                    <td>02</td>
+                    <td>24</td>
+                    
+                 </tr>
+                 <tr>
+                    <td>Rudro</td>
+                    <td>03</td>
+                    <td>23</td>
+                    
+                 </tr>
+        </table>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> 
+            Molestias aspernatur ratione, necessitatibus, asperiores <br>
+            eligendi obcaecati, minima quidem culpa dignissimos minus <br>
+            inventore blanditiis quam consequuntur quisquam itaque beatae<br> 
+            consectetur magni voluptates?<br>
+         </p>
+
+</body>
+</html>
