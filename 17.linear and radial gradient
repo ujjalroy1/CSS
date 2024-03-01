@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       .grad
+    {
+         height:400px;
+        
+        background-image:linear-gradient(to right,red,yellow,orange)
+    }
+    .grad1
+    {
+         height:400px;
+         width: 300px;
+        background-image:radial-gradient(circle,red,yellow,orange)
+    }
+    </style>
+</head>
+<body>
+       <div class="grad">
+             
+        </div>
+        <br><br>
+        <div class="grad1">
+             
+        </div>
+</body>
+</html>
