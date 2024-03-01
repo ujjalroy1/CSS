@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+           p:hover
+           {
+              background-color: black;
+              color: white;
+           }
+           li:nth-child(odd)
+           {
+              background-color: black;
+              color: aqua;
+           }
+           ::selection
+           {
+              color: lightcoral;
+              font-size: 30px;
+           }
+           .ok::first-letter
+           {
+             color: lightgreen;
+             font-size: 50px;
+           }
+           input::placeholder
+           {
+              font-size: 20px;
+              color: red;
+           }
+           input
+           {
+               height: 30px;
+
+           }
+    </style>
+</head>
+<body>
+       
+        <div>
+             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br> 
+             Hic reprehenderit voluptates, odit eum perspiciatis dolorum <br>
+             nisi. Placeat itaque ut, officiis enim cupiditate eius? Eaque<br>
+            vitae alias, consequuntur molestiae placeat quae!<br>
+            </p>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br> 
+                Hic reprehenderit voluptates, odit eum perspiciatis dolorum <br>
+                nisi. Placeat itaque ut, officiis enim cupiditate eius? Eaque<br>
+               vitae alias, consequuntur molestiae placeat quae!<br>
+               </p>
+               <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br> 
+                Hic reprehenderit voluptates, odit eum perspiciatis dolorum <br>
+                nisi. Placeat itaque ut, officiis enim cupiditate eius? Eaque<br>
+               vitae alias, consequuntur molestiae placeat quae!<br>
+               </p>
+        </div>
+        <div>
+                 <h2>Name of animal</h2>
+              <ul>
+                     <li>Cow</li>
+                     <li>Dog</li>
+                     <li>Cat</li>
+                     <li>goat/li>
+                </ul>
+
+
+            </div>
+            <div >
+                <p class="ok">Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br> 
+                Hic reprehenderit voluptates, odit eum perspiciatis dolorum <br>
+                nisi. Placeat itaque ut, officiis enim cupiditate eius? Eaque<br>
+               vitae alias, consequuntur molestiae placeat quae!<br>
+               </p>
+               <p class="ok">Uorem ipsum dolor sit, amet consectetur adipisicing elit.<br> 
+                   Hic reprehenderit voluptates, odit eum perspiciatis dolorum <br>
+                   nisi. Placeat itaque ut, officiis enim cupiditate eius? Eaque<br>
+                  vitae alias, consequuntur molestiae placeat quae!<br>
+                  </p>
+                  <p class="ok">Sorem ipsum dolor sit, amet consectetur adipisicing elit.<br> 
+                   Hic reprehenderit voluptates, odit eum perspiciatis dolorum <br>
+                   nisi. Placeat itaque ut, officiis enim cupiditate eius? Eaque<br>
+                  vitae alias, consequuntur molestiae placeat quae!<br>
+                  </p>
+           </div>
+           <input type="text" placeholder="enter your name">
+
+</body>
+</html>
