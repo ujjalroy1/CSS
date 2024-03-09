@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+           div
+           {
+              height: 150px;
+              width: 150px;
+              background-color: black;
+              color: red;
+              overflow: auto;
+           }
+           .ok:hover .ok1
+           {
+             visibility: visible;
+           }
+           .ok1
+           {
+              visibility: hidden;
+              position: absolute;
+              background-color: crimson;
+              color: floralwhite;
+             padding: 5px;
+             border-radius: 712px;
+             width: 150px;
+             left: 10px;
+             top: 30px;
+           }
+    </style>
+</head>
+<body>
+       <a href="google.com" class="ok">
+                 google
+                 <span class="ok1">google is a search engine</span>
+       </a>
+       <br><br>
+    
+       <div>
+           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum, repudiandae, accusantium explicabo dolore consequatur adipisci error nemo quibusdam labore aliquid mollitia animi quas corrupti reiciendis esse facilis voluptates? A, enim.
+        </div>
+</body>
+</html>
