@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+            .hi
+            {
+                 background-color: aqua;
+                 display: flex;
+                 /* flex-wrap: wrap; */
+                 flex-flow: row wrap;
+            }
+            .hi>div
+            {
+                 font-size: 30px;
+                 background-color: tomato;
+                 height: 100px;
+                 width: 100px;
+                 padding: 10px;
+                 margin: 10px;
+            }
+    </style>
+</head>
+
+<body>
+
+    <div class="hi">
+
+        <div>
+            Div1
+        </div>
+        <div>
+            Div2
+        </div>
+        <div>
+            Div3
+        </div>
+        <div>
+            Div4
+        </div>
+        <div>
+            Div1
+        </div>
+        <div>
+            Div2
+        </div>
+        <div>
+            Div3
+        </div>
+        <div>
+            Div4
+        </div>
+    </div>
+
+</body>
+
+</html>
