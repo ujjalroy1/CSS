@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+           .linkbar
+           {
+              background-color: cornflowerblue;
+              padding: 15px 10px ;
+              text-align: center;
+           }
+           .linkbar a
+           {
+               color: white;
+               padding: 15px 15px;
+               font-size: 30px;
+               cursor: pointer;
+           }
+           .dropdownfirst
+           {
+               display: inline;
+               position: relative;
+           }
+           .dropdownsecond a
+           {
+               display: block;
+           }
+           .dropdownsecond a:hover
+           {
+               background-color: gray;
+           }
+           .dropdownsecond 
+           {
+            position: absolute;
+            background-color: cornflowerblue;
+            top: 20px;
+            right: 0px;
+            display: none;
+           }
+           .dropdownfirst:hover .dropdownsecond
+           {
+             display: block;
+           }
+    </style>
+</head>
+<body>
+       
+    <div class="linkbar">
+    
+                  <a href="#">HOME</a>
+                  <a href="#">Tutorial</a>
+                  <div class="dropdownfirst">
+                    <a href="#">Contact</a>
+                    <div class="dropdownsecond">
+                        <a href="#">facebook</a>
+                        <a href="#">Email</a>
+                        <a href="#">Phone</a>
+                    </div>
+
+                  </div>
+                  <a href="#">feedback</a>
+                  
+    </div>
+
+</body>
+</html>
